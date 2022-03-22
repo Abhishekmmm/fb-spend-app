@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fb-spend-app",
+  "private_key_id": "1e85421934c92b11121c6a04a2cab527ca203537",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCGjFOZWNaQ4jyP\nBPoKoJYUf1IHx1F+rTc6hhF8TFBhnbqSFCrh9I59tYT9LJHsFrEFw5/N4vcegvXq\nGEG3uXZlb6EkNtO7AKHCMuaoKwW0ajERVL1hzRH5IMP4cvs16tuEqopcjV9gsniM\nvsBsok9w0wBgzw1pEwdgLc3JCT2muk9re1vXEKiFL/uUul+bnUd5PckY5H/5C+Wn\ndu3WdWkzX4xfeqGFPQb4BbtAYvYvn2JvlEeHiy0uTROD76CwTkq05GypMgY2+1WW\nbBIHfl10cf4dG4yKcKlWfUak9WAufsuPqWOspXm3uEy8HSx1SSxMxODBt9vwQPep\nhfj6Qv99AgMBAAECggEABlRVnnIibeBmrueyB4v0Y3R13G3Q9J+baIJkEi/Y3C66\nVyLhvY1uopVGc06EctHCdB32x420yFeqz99iQA1Wd4Ef2H9HyJVIBsW0OhcEBq+0\nLTeKTS6DeO/EqExoaunod746Eg6IfRkIOL7EeJfOGuWiL+utmtLNVwXwl1N69fve\nSGd61xCtZHtfYw+sYwD28do/XrG8Yab7nk83duBjCh6XakH76Ecb0SJBzCjtK43b\n3saWqnZ1QIjFkmwG3SwmZVAXhGZCBYx5Fvns3mHqbJ6Q9prJolQpPbHQi+VtfIkx\nFARfTWAUkL+aaO6zCTdp6O02Rdgxtske7oa3nkUkYQKBgQC6NwSkkV3RAj5hE3AN\nUs8yUJKcB31FAG10VIy0EhbQePZ2rSOxxubzOxm/ez5WUnTqJTVqlHU9rm3BbwZ2\nsz2Lf/2cMOyj1tTvpduemxhD10fY6TnOZsZUwz5Uw8tmCp6WXlxeSfip1o3PxcfQ\nd3wlrujHcXJvy55McGeeWgNDdQKBgQC4+IgM1k3qQ7CY5C5iVk+KQTs5nHrSEIDG\nvmCSHBFhTRUsi0ePpivjDwnMki6PtwzKcYaEgw9Q/AJaXoOWVX9i/41QzXwR7gR3\nbEliiqRPYHdSByVlskFTV3SQ6uGe+DnArPyy3l3uyH2C0DX5b0YU9B/BtLS6Mtkp\n9yJT5q7y6QKBgDa8dWDqWelV/4AJdqZz8POZO38htHDT71iCgdlsd8hPxiKcQiG/\nlaNpe+gNEgXNtxAcX9c0TEIVQ63YNM4vYafft2xx9R0zyOOonSXB8R//596ar6M8\nEpBX07qW0vLrrDIHCp+snqtNpeGtAU8F0DhDcakub7Ts5VsSr2KcktkBAoGAIKy+\nk83zm5Nzib6dNv/aMykMxkOPKraBmRoeQxE0PMT6HZFJBeYr0INijsGv+fEzEDv3\nsEbamMq7u60Af7kAtMNB+mkiJqSuI058tCybk+4Nhe7/OzS+93L2g3cKfiOJSDEG\nvq4rV7gQ+9+9+R8f+SmaxoQefNnopNIkPT/93akCgYBm3EbIwuO+AgJdLYrCUCgT\n8DjaeXpQ3idBlrw1S96dkBnepfY8Sm0PhYqRylhfFuhNECJACiGne8yCPkp5c1NJ\ndMJ4c9ulBcCcod3S7sHfmQwNI/OJ6KpeaIYWF9SEpHw+VgRPIqfV2dXN3RQeYcxy\n89ytHgVmOVYIlKgZIdkiVQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "fb-spend-app@appspot.gserviceaccount.com",
+  "client_id": "106940228840717039906",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fb-spend-app%40appspot.gserviceaccount.com"
+}
